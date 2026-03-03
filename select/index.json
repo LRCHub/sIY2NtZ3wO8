@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "点.mp4",
+  "base_artist": "安見すや",
+  "createdAt": "2026-03-03T08:08:23.335154Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "点.mp4 - Mixed",
+      "artist": "安見すや, Shu",
+      "has_synced": false,
+      "path": "select/pl_01_点.mp4_-_Mixed_安見すや,_Shu.txt"
+    }
+  ]
+}
